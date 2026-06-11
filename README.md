@@ -79,20 +79,6 @@ Q.5 Which customer segments are most valuable?
 
 Q.6 Which customers are at risk of becoming inactive?
 
-## Analysis Performed
-
-### Revenue Analysis
-
-* Evaluated revenue contribution by membership type.
-* Identified top-performing cities based on total sales.
-* Analyzed spending behavior across different age groups.
-
-### Customer Behavior Analysis
-
-* Compared spending patterns of customers using discounts versus those who do not.
-* Evaluated customer satisfaction across membership categories.
-* Measured average spending and purchase volume.
-
 ## Key Business Insights
 
 - Membership programs play a significant role in overall revenue generation.
