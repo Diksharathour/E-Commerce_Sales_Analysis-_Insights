@@ -50,6 +50,7 @@ The objective was to transform raw sales data into meaningful business insights 
 - Analyze revenue contribution by membership category, city, and customer segments.
 - Evaluate customer satisfaction and its impact on spending behavior.
 - Identify top-performing customer groups and business growth opportunities.
+  
 5. **Customer Segmentation & Revenue Insights**
 - Develop a customer segmentation framework to classify customers into:
  High Value Customers
@@ -57,6 +58,7 @@ The objective was to transform raw sales data into meaningful business insights 
  Low Value Customers
 - Analyze spending patterns and purchasing trends across different customer segments.
 - Identify customers with the highest revenue contribution.
+  
 6. **Business Insights & Visualization**
 - Build interactive Power BI dashboards.
 - Visualize revenue trends, customer behavior, membership performance, and customer satisfaction metrics.
@@ -79,7 +81,7 @@ Q.5 Which customer segments are most valuable?
 
 Q.6 Which customers are at risk of becoming inactive?
 
-## Key Business Insights
+## **Key Business Insights**
 
 - Membership programs play a significant role in overall revenue generation.
 - Customer spending behavior varies across age groups.
